@@ -1,7 +1,7 @@
 {
   "name": "thinhphi",
   "version": "1.0.0",
-  "description": "A library that helps you calculate the difference of any two numbers",
+  "description": "A library that helps you calculate the difference of any two numbers:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
